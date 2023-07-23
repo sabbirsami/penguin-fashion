@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
-body {
-    font-family: "Lora", serif;
+.heading-font {
+    font-family: "Playfair Display", serif;
+}
+.body-font {
+    font-family: "Roboto", sans-serif;
 }
